@@ -1,6 +1,6 @@
 # IBM-Data-Analyst-Capstone
 
-consist of 6 Module
+Consist of 6 Module
 
 Module 1: Data Collection 
 Collecting Data Using APIs
